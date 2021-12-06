@@ -2,3 +2,4 @@ this is v1 of 1.txt
 i change on master
 local commit on master
 post merge commit3
+b1 mod of 1.txt
