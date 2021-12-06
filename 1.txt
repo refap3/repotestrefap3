@@ -2,4 +2,4 @@ this is v1 of 1.txt
 i change on master
 local commit on master
 amend commit local 
-local commit on master
+
