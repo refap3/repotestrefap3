@@ -1,4 +1,2 @@
 this is v1 of 1.txt
 
-b
-c
