@@ -1,5 +1,8 @@
 this is v1 of 1.txt
 ok and goode here and there
 after c4-c6
+c7
+c8
+
 
 
