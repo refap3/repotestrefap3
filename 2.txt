@@ -1,5 +1,2 @@
 this is v2 of 2.txt
-c1
-c2
-c4
-c5
+after c4-c6
